@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "16035296240",
+    "firebase_url": "https://fir-lab-fc2da.firebaseio.com",
+    "project_id": "fir-lab-fc2da",
+    "storage_bucket": "fir-lab-fc2da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16035296240:android:74c3cc824bc00d40476335",
+        "android_client_info": {
+          "package_name": "edu.newhaven.krikorherlopian.android.restaurant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "16035296240-lb51h3f79ud1rtql3t2v7k5becr5g6un.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpRUmDhel6IK49Ya2eZy7wZ9cuFurq4dE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "16035296240-lb51h3f79ud1rtql3t2v7k5becr5g6un.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
